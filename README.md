@@ -3,7 +3,7 @@ An iOS app that fetches products from a public REST API and displays them in a l
 
 ## Demo
 
-![Demo.](https://amitbhujbal.com/images/demo-Protect-RestAPI.gif "Demo")
+![Demo.](https://amitbhujbal.com/images/demo-Project-RestAPI.gif "Demo")
 
 ## Features
 
