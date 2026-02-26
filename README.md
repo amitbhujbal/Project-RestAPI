@@ -14,10 +14,13 @@ An iOS app that fetches products from a public REST API and displays them in a l
 - Category badge styling
 - Currency formatting
 
-## Requirements
-
-- iOS 15+
-- Xcode 15+
+## Technical Details
+- Built with Swift
+- Uses UIKit and URLSession for network requests
+- JSON decoding via Codable
+- Async image loading with native APIs
+- Supports iOS 15+
+- Developed using Xcode 15+
 
 ## Author
 
